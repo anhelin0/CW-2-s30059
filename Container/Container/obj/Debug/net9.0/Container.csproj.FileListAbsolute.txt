@@ -1,0 +1,14 @@
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/bin/Debug/net9.0/Container
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/bin/Debug/net9.0/Container.deps.json
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/bin/Debug/net9.0/Container.runtimeconfig.json
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/bin/Debug/net9.0/Container.dll
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/bin/Debug/net9.0/Container.pdb
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.AssemblyInfoInputs.cache
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.AssemblyInfo.cs
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.csproj.CoreCompileInputs.cache
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.dll
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/refint/Container.dll
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.pdb
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/Container.genruntimeconfig.cache
+/Users/angelinaselivonetsgmail.com/RiderProjects/Container/Container/obj/Debug/net9.0/ref/Container.dll
